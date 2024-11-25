@@ -84,20 +84,6 @@ graph TB
      class di orange
 
 ```
-
-#### PlantUML
-
-```plantuml
-@startuml
-
-(First usecase)
-(Another usecase) as (UC2)
-usecase UC3
-usecase (Last\nusecase) as UC4
-
-@enduml
-
-```
  
 ### 8. Fomula math
 
